@@ -1,3 +1,5 @@
+## this is my changed code
+Hello world!
 # PHP Obfuscator
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/naneau/php-obfuscator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/naneau/php-obfuscator/?branch=master)
